@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2024 - To: 08 August 2024
+From: 08 May 2024 - To: 09 August 2024
 
-Total Time: 332 hrs 14 mins
+Total Time: 332 hrs 40 mins
 
-TypeScript    259 hrs 50 mins >>>>>>>>>>>>>>>>>>>------   77.93 %
-JavaScript    37 hrs 4 mins   >>>----------------------   11.12 %
-HTML          15 hrs 55 mins  >------------------------   04.78 %
+TypeScript    260 hrs 17 mins >>>>>>>>>>>>>>>>>>>------   77.96 %
+JavaScript    37 hrs 4 mins   >>>----------------------   11.10 %
+HTML          15 hrs 55 mins  >------------------------   04.77 %
 JSON          7 hrs 7 mins    >------------------------   02.14 %
 Bash          3 hrs 12 mins   -------------------------   00.96 %
 Prisma        2 hrs 3 mins    -------------------------   00.62 %
