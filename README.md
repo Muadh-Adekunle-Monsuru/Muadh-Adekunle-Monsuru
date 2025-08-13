@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2024 - To: 10 August 2025
+From: 08 May 2024 - To: 11 August 2025
 
-Total Time: 640 hrs 3 mins
+Total Time: 640 hrs 50 mins
 
-TypeScript    539 hrs 23 mins >>>>>>>>>>>>>>>>>>>>>----   83.90 %
-JavaScript    43 hrs 41 mins  >>-----------------------   06.80 %
-HTML          17 hrs 24 mins  >------------------------   02.71 %
+TypeScript    540 hrs 10 mins >>>>>>>>>>>>>>>>>>>>>----   83.92 %
+JavaScript    43 hrs 41 mins  >>-----------------------   06.79 %
+HTML          17 hrs 24 mins  >------------------------   02.70 %
 JSON          13 hrs 26 mins  >------------------------   02.09 %
 Prisma        6 hrs 41 mins   -------------------------   01.04 %
 CSS           5 hrs 36 mins   -------------------------   00.87 %
